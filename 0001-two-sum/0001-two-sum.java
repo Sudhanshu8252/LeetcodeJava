@@ -7,7 +7,8 @@ class Solution {
                }
             }
         }
-        return null;
+        return new int[]{};
+
 
     }
 }
