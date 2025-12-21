@@ -1,4 +1,8 @@
-class Solution {
+
+
+
+//BETTER SOLUTION 
+ class Solution {
     public int[] twoSum(int[] nums, int target) {
 
         Map<Integer,Integer> map = new HashMap <>();
@@ -20,26 +24,6 @@ class Solution {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
