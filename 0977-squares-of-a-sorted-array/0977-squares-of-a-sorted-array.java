@@ -1,6 +1,6 @@
 //TWO POINTER APPROACH -- using a new array 
 
-/*class Solution {
+class Solution {
     public int[] sortedSquares(int[] nums) {
         int n = nums.length;
         int []result = new int [n];
@@ -26,11 +26,11 @@
     }
     return result;
 }
-}*/
+}
 
 
 //TWO POINTER APPROACH -- using with a new array 
-
+/*
 class Solution {
     public int[] sortedSquares(int[] nums) {
 
