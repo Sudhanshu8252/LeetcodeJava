@@ -2,34 +2,35 @@
 
 class Solution {
     public int[] sortedSquares(int[] nums) {
+
         int n = nums.length;
-        int []result = new int [n];
+        int[] result = new int[n];
 
-        int left =0;
-        int right = n-1;
-        int index= n-1;
+        int left = 0;
+        int right = n - 1;
+        int k = n - 1;
 
-        while(left<= right){
-            // beacuse in odd array last element will remain so we are using while (left <= right) for taking the
-          if(Math.abs(nums[left])> Math.abs(nums[right])){
-            // we are taking absolute value so we dont have to focus on positive or negatives values.
+        while (left <= right) {
 
-            // case 1 : when left is bigger
-            result[index] = nums[left] * nums[left];
-            left ++;
-          }else{
-            // case 2 : when right is bigger
-            result[index] = nums[right] * nums[right];
-            right--;
-          }
-          index --;
+            int leftSquare = nums[left] * nums[left];
+            int rightSquare = nums[right] * nums[right];
+
+            if (leftSquare > rightSquare) {
+                result[k] = leftSquare;
+                left++;
+            } else {
+                result[k] = rightSquare;
+                right--;
+            }
+            k--;
+        }
+
+        return result;
     }
-    return result;
-}
 }
 
 
-//TWO POINTER APPROACH -- using with a new array 
+//TWO POINTER APPROACH -- without  using with a new array 
 /*
 class Solution {
     public int[] sortedSquares(int[] nums) {
