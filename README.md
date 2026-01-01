@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0904-fruit-into-baskets) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0125-valid-palindrome) |
 ## Sliding Window
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0202-happy-number) |
 ## Linked List
 |  |
