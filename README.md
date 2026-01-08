@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0595-big-countries) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
