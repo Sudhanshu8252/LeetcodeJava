@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0202-happy-number) |
 ## Linked List
 |  |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
