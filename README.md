@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -131,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
