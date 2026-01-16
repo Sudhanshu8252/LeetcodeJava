@@ -8,6 +8,11 @@ class Solution {
             Maxsum = Math.max(Currsum , Maxsum);
 
 
+             if(Currsum < 0){
+                Currsum =0;
+            }
+
+
         }
         return Maxsum;
     }
