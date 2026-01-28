@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Queue
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Matrix
+|  |
+| ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3651-minimum-cost-path-with-teleportations) |
 <!---LeetCode Topics End-->
