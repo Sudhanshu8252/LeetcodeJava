@@ -1,3 +1,68 @@
+//WITHOUT HAShMAP
+
+class Solution {
+    public int subarraysDivByK(int[] nums, int k) {
+        int freq[] = new int [k];
+        freq [0] = 1;
+
+        int prefix_Sum = 0;
+        int count =0;
+
+        for(int i=0;i<nums.length;i++){
+            prefix_Sum += nums[i];
+
+            int remainder = prefix_Sum % k;
+
+            if(remainder < 0) remainder+=k;
+
+            count += freq[remainder];
+            freq[remainder]++;
+        }
+        return count;
+
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 //WITH HASHMAP
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
@@ -25,3 +90,5 @@ class Solution {
 
     }
 }
+
+*/
