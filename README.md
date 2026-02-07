@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0424-longest-repeating-character-replacement) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Sliding Window
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0020-valid-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Database
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3651-minimum-cost-path-with-teleportations) |
