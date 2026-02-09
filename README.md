@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0011-container-with-most-water) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Prefix Sum
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0918-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,12 +239,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
