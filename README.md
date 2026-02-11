@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -262,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
