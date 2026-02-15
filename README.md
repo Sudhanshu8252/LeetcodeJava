@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0424-longest-repeating-character-replacement) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0258-add-digits) |
 ## Linked List
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0258-add-digits) |
 | [3379-transformed-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3379-transformed-array) |
 ## Number Theory
