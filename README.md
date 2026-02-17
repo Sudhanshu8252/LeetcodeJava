@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0401-binary-watch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3713-longest-balanced-substring-i) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
