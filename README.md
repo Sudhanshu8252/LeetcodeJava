@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0287-find-the-duplicate-number) |
+| [0696-count-binary-substrings](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0424-longest-repeating-character-replacement) |
+| [0696-count-binary-substrings](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0696-count-binary-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2977-minimum-cost-to-convert-string-ii) |
