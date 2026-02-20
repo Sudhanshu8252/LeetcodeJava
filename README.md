@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0088-merge-sorted-array) |
+| [0761-special-binary-string](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0053-maximum-subarray) |
+| [0761-special-binary-string](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3719-longest-balanced-subarray-i) |
