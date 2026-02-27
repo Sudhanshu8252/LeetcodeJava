@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3714-longest-balanced-substring-ii) |
 ## Sliding Window
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0258-add-digits) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Linked List
 |  |
 | ------- |
@@ -312,4 +314,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
