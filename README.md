@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0074-search-a-2d-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Enumeration
 |  |
