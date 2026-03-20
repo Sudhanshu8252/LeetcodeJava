@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3379-transformed-array) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Enumeration
 |  |
