@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3714-longest-balanced-substring-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2573-find-the-string-with-lcp](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3634-minimum-removals-to-balance-array) |
