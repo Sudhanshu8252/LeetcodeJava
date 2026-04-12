@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0761-special-binary-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0799-champagne-tower) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
