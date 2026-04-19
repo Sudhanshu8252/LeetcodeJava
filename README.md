@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0977-squares-of-a-sorted-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
