@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0287-find-the-duplicate-number) |
+| [0396-rotate-function](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0258-add-digits) |
+| [0396-rotate-function](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0396-rotate-function) |
 | [1622-fancy-sequence](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0152-maximum-product-subarray) |
+| [0396-rotate-function](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0396-rotate-function) |
 | [0799-champagne-tower](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0799-champagne-tower) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
