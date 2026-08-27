@@ -1,29 +1,22 @@
-// class Solution {
-//     public int removeDuplicates(int[] nums) {
+class Solution {
+    public int removeDuplicates(int[] nums) {
+        if(nums.length == 0) return 0;
 
-//         if(nums.length==0) return 0;
-
-//         int i=0;
-//         int j=1;
-
-//         while(j<nums.length){
-//             if(nums[j] != nums[i]){
-//                 i++;
-//                 nums[i] = nums[j];
-//             }
-//             j++;
-//         }
-//         return i+1;
-    
-
-        
-//     }
-// }
+       int writer = 0;
+       for(int scanner = 1;scanner<nums.length;scanner++){
+        if(nums[writer] != nums[scanner]){
+            writer++;
+            nums[writer] = nums[scanner];
+        }
+       }
+       return writer + 1 ;
+    }
+}
 
 
 
 
-
+/*
 class Solution {
     public int removeDuplicates(int[] nums) {
     
@@ -41,6 +34,7 @@ class Solution {
         return index;
 }
 }
+*/
 
 
 
@@ -49,30 +43,3 @@ class Solution {
 
 
 
-
-
-/*
-//BRUTE FORCE
-
-class Solution {
-    public int removeDuplicates(int[] nums) {
-        int n = nums.length;
-
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (nums[i] == nums[j]) {
-                    for (int k = j; k < n - 1; k++) {
-                        nums[k] = nums[k + 1];
-                    }
-                    n--;
-                    j--;
-                }
-            }
-        }
-        return n;
-    
-        
-       }
-       }
-    
-    */
