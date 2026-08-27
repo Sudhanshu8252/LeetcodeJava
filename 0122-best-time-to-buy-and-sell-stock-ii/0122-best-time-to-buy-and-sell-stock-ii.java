@@ -1,0 +1,15 @@
+class Solution {
+    public int maxProfit(int[] prices) {
+        int maxProfit = 0;
+        for(int day=1;day<prices.length;day++){
+            if(prices[day] > prices[day-1]){
+                int profit = prices[day] - prices[day-1];
+                maxProfit = maxProfit + profit;
+            }
+        }
+
+        return maxProfit;
+
+        
+    }
+}
