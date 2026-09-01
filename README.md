@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0724-find-pivot-index) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0874-walking-robot-simulation) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0696-count-binary-substrings](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0761-special-binary-string](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/1200-minimum-absolute-difference) |
