@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0088-merge-sorted-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sudhanshu8252/LeetcodeJava/tree/master/0202-happy-number) |
